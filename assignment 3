@@ -1,0 +1,29 @@
+a=int(input('enter the value of a='))
+b=int(input('enter the value of b='))
+print('a<b',a,b)
+print(a<b)
+print('a>b',a,b)
+print(a>b)
+print('a<=b',a,b)
+print(a<=b)
+print('a>=b',a,b)
+print(a>=b)
+print('a==b',a,b)
+print(a==b)
+print('a!=b',a,b)
+print(a!=b)
+      :OUTPUT:
+enter the value of a=10
+enter the value of b=5
+a<b 10 5
+False
+a>b 10 5
+True
+a<=b 10 5
+False
+a>=b 10 5
+True
+a==b 10 5
+False
+a!=b 10 5
+True
